@@ -1,0 +1,6 @@
+REAMDME
+san.info
+*.log
+*.info
+test/
+.gitignore
